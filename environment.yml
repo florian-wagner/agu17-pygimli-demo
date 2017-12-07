@@ -3,5 +3,7 @@ channels:
 - gimli
 - defaults
 dependencies:
+- matplotlib=2.0.2=py36_2
+- boost=1.64.0=py36_4
 - pygimli
 - seaborn
