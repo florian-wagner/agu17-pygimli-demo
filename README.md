@@ -1,7 +1,10 @@
 # pyGIMLi @ AGU17
 
 Poster: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1095621.svg)](https://doi.org/10.5281/zenodo.1095621)
-Live-Demo:
+
+Live-Demo: https://mybinder.org/v2/gh/florian-wagner/agu17-pygimli-demo/master?filepath=pygimli_agu17_demo.ipynb
+
+More info: www.pygimli.org
 
 ## Abstract
 
