@@ -2,7 +2,7 @@
 
 Poster: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1095621.svg)](https://doi.org/10.5281/zenodo.1095621)
 
-Live-Demo: https://mybinder.org/v2/gh/florian-wagner/agu17-pygimli-demo
+Live-Demo: https://mybinder.org/v2/gh/florian-wagner/agu17-pygimli-demo/master
 
 More info: https://agu17.pygimli.org
 
